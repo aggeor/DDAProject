@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 30c8d639dbd66f64a8f7d41abdb19847
+timeCreated: 1479740361
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentCheckpont: {instanceID: 0}
+  - deathParticle: {fileID: 1000011053642192, guid: add1a98f0ef98b642bad7c0026e7f4a1,
+      type: 2}
+  - respawnParticle: {fileID: 1000010821662792, guid: 6ef2e87e4889e094695c22f6f130c80b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

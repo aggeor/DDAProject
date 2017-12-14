@@ -1,0 +1,1 @@
+C:\Users\Chucho\Documents\2D Platformer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
