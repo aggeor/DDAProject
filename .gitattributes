@@ -1,4 +1,6 @@
 ## Unity ##
+*.cs linguist-language=C#
+*.aspx linguist-language=C#
 
 *.cs diff=csharp text
 *.cginc text
